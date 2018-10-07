@@ -8,3 +8,5 @@ confiance et de disponibilité. Les patients évaluent ce paramètre en fonction
 de l’attitude de l’équipe soignante, de son écoute, de l’apparence du cabinet
 , de la composition du plateau technique, des horaires de rendez-vous et des
 jours d’ouverture, etc.
+	La demande de consultation non-programmée est une réalité quotidienne
+ pour le chirurgien-dentiste.
